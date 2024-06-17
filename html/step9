@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="2">
+        <caption>student information</caption>
+    <tr>
+        <th>name</th>
+        <th>class</th>
+        <th>rollno</th>
+    </tr>
+    <tr>
+        <td>aditya</td>
+        <td>4</td>
+        <td>40</td>
+
+    </tr>
+    <tr>
+        <td>ayush</td>
+        <td>4</td>
+        <td>30</td>
+        </tr>
+        <tr>
+            <td colspan="3">this is cell spam 3 coloums</td>
+    
+        </tr>
+        
+    
+</body>
+</html>

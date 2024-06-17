@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <h1>NEW STUFF</h1><hr>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam, harum porro, laudantium doloribus deleniti possimus dolor quidem et rerum commodi officiis maiores. Accusantium voluptatibus placeat suscipit amet beatae sed ullam quia tenetur modi quod atque et error maiores quasi, laborum distinctio magni earum recusandae ea harum. Illum ad id eveniet? Repudiandae quos eius ducimus eligendi, voluptatibus temporibus magni voluptate, corrupti, soluta delectus hic? Animi quo enim adipisci consectetur placeat incidunt doloremque. Aspernatur, nemo perspiciatis ipsam possimus minima dolor ea eligendi assumenda omnis, unde aut porro! Eos omnis eveniet veritatis earum? Incidunt voluptatibus dolorem quam explicabo fuga! Officiis ducimus minima incidunt aut reiciendis adipisci consequuntur molestiae itaque ut fugiat vero atque maxime suscipit consectetur illum, quae assumenda accusantium! Minus enim incidunt veritatis mollitia a, voluptatem similique porro nisi, dolores, soluta ipsam. Asperiores id ipsum excepturi ipsam veritatis dolorum delectus natus vel ea minima, possimus necessitatibus facere labore provident similique a praesentium sit sapiente, animi eveniet. Aspernatur atque excepturi ad tenetur necessitatibus culpa, voluptatum perspiciatis omnis voluptatibus sint iure eos veniam! Dolor voluptate rem vel consectetur. Quae enim, animi eius rerum iste quos dolorem iusto, rem quasi impedit sint facere ex molestias! Asperiores unde non recusandae fugiat quaerat voluptatem cupiditate. Quidem ab amet dolore aliquid adipisci. Quibusdam vitae, magnam ipsam odio neque, suscipit enim fuga laboriosam minima facilis, repudiandae eum ex consectetur ad dicta repellat dolores id nemo? Voluptas nam corrupti similique possimus numquam harum corporis praesentium, tenetur exercitationem totam nostrum debitis omnis dolor odio enim in, accusamus aut. Harum odit, quibusdam impedit, fuga at dolores tempore quia commodi ab aut enim aliquam necessitatibus saepe soluta exercitationem voluptates. Doloremque itaque sapiente qui totam sit voluptatum distinctio? Nemo iure provident voluptas, ratione pariatur eveniet ipsa inventore mollitia dolorem! Repellat unde vel perspiciatis, quos corporis eveniet voluptate repellendus molestias eius veritatis, adipisci atque modi neque quis voluptatum, maxime cum? Eaque dicta animi corporis impedit, obcaecati repellat, praesentium velit consequatur ad eligendi numquam? Quisquam modi recusandae nam molestiae incidunt perferendis eveniet tenetur libero ea explicabo labore, veritatis porro quis reiciendis quos. Itaque corporis cupiditate explicabo quidem esse. Voluptates magni consectetur laborum minima vitae quae, corrupti perspiciatis et! Facere, nisi hic, quia repellendus ducimus, culpa sequi laborum ut optio sint cupiditate? Cum expedita quam tempora, facilis vero qui minima omnis at enim quod. Voluptate, quidem unde? Assumenda, magnam debitis. Minima consequuntur ab debitis explicabo, magnam asperiores, dolores beatae accusantium obcaecati est aliquid rerum ea facilis nisi earum in maxime ad qui! Similique quaerat asperiores magnam impedit dignissimos aspernatur assumenda, adipisci excepturi, atque animi quibusdam facilis consectetur distinctio minus, velit nesciunt illum autem porro dolorum tempore aut! Rerum eum veritatis unde. Nobis nisi consequatur cumque deleniti soluta aliquid laboriosam, obcaecati similique maxime officia, a quisquam dolore repudiandae perspiciatis consectetur nam! Dolorem incidunt architecto ullam alias repellendus, consequuntur delectus quidem harum nesciunt non culpa voluptate consequatur excepturi explicabo. Molestias atque in voluptatem quod iste odit nulla tempora officia ab sequi? Eaque est ad vero assumenda pariatur quasi laborum nostrum repudiandae, enim voluptas iste impedit, delectus corrupti cupiditate accusantium.</p>
+    <main>
+        <aside>
+            <h1>recommended books you would like</h1>
+            <ul>
+                <li>"introduction to maf102"</li>
+                <li>"introduction to mechanics"</li>
+            </ul>
+        </aside>
+
+    </main>
+    <hr>
+
+    <footer> hello linkss<br>
+        hello world <br>
+        hello hey
+    </footer><br>
+    
+</body>
+</html>

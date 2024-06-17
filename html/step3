@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header> 
+        <nav>
+        <a href="#content">content</a><br>
+        
+    </nav>
+
+
+    </header>
+
+    <header>
+        <main>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa distinctio officiis reiciendis minima obcaecati itaque excepturi accusamus tempora, mollitia assumenda, odit quidem ab asperiores, aperiam illo rerum ducimus laudantium eveniet!</p><br>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate quidem distinctio nostrum vel quam officia, ex quaerat. Assumenda dolore magni consequatur perspiciatis, consectetur amet non accusamus dolor sunt ab excepturi incidunt inventore autem dolores architecto harum in? Voluptate molestiae repudiandae architecto, obcaecati delectus possimus voluptatibus rem impedit inventore aspernatur, eos placeat cupiditate libero aperiam tempora, amet doloremque consequuntur a rerum commodi vero praesentium ducimus minus doloribus. Explicabo quis amet obcaecati? Ea accusamus laboriosam natus velit. Vero non maxime deleniti commodi ratione tenetur rem perferendis similique vitae ut nobis ducimus, aliquid consequatur provident delectus nisi! Totam aliquam quia possimus. Soluta rem inventore repellat in nulla corrupti voluptate consequatur quas minima? Molestias a ea molestiae numquam vero adipisci. Aut incidunt tempora minima! In earum aliquam similique! Perferendis et qui ut provident expedita, mollitia, illo sunt ea fugit temporibus quaerat illum, necessitatibus delectus aspernatur! Provident, doloremque! Natus voluptas itaque voluptatem consequatur explicabo maiores fugiat libero, officiis sunt eius, dolor omnis, unde laboriosam debitis? Ipsum obcaecati possimus quasi ab repellat non ad, laboriosam voluptatum odit odio blanditiis aspernatur qui modi pariatur cupiditate suscipit facilis. Qui deleniti a consectetur, consequatur nisi eligendi ut, quidem nobis nemo fugit, quibusdam doloremque soluta omnis est dolorem laboriosam laborum.</p>
+            <p id="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut adipisci quos ducimus minus temporibus sapiente, ea autem suscipit eveniet deleniti facere illum odio accusamus provident corporis illo tempore laborum atque!</p><br>
+        </main>
+    </header>
+       
+    
+
+    
+</body>
+</html>
